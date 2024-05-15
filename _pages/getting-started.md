@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Getting started with Reverie
+title: 
 permalink: /getting-started/
 ---
